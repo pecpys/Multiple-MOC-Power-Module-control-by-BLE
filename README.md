@@ -19,3 +19,11 @@ and you can control all device in the same time by use device no. 255 (broadcast
 
 The module that subpport this ble protocol is the name start with JG_JMC-xxxx
 I put the picture of device for example in file
+
+The module that I use come from
+- MOC 8CH 8 Channel Remote Control 6.0 Lithium Battery Box Support APP Program Speed Adjust for Building Blocks Power Function Toy (support only port A,B and C,D)
+https://th.aliexpress.com/item/1005008795848316.html
+- Power module come with 60337 MOC set (support only port A and C)
+https://th.aliexpress.com/item/1005009993533125.html
+- Power module come with 60197 MOC set (support only port A and C)
+https://th.aliexpress.com/item/1005009549142155.html

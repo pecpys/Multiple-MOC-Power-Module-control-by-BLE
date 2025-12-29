@@ -16,3 +16,6 @@ example: {"device":1,"AB_mode":1,"AB_speed":10,"CD_mode":0,"CD_speed":0}
 that mean control device no.1, port A/B forward, speed = 10, port C/D stop, speed = 0
 
 and you can control all device in the same time by use device no. 255 (broadcast)
+
+The module that subpport this ble protocol is the name start with JG_JMC-xxxx
+I put the picture of device for example in file
